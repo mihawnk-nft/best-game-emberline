@@ -1,0 +1,1 @@
+{"shots":[{"name":"1-start","url":"/index.html?shot=start&seed=1","wait_ms":1500},{"name":"2-buy","url":"/index.html?shot=buy&seed=2","wait_ms":1500},{"name":"3-play","url":"/index.html?shot=play&seed=3","wait_ms":7000},{"name":"4-end","url":"/index.html?shot=end&seed=4","wait_ms":1500}]}
