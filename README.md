@@ -1,7 +1,12 @@
 # EMBERLINE
 
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/mihawnk-nft/best-game-emberline/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/mihawnk-nft/best-game-emberline/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
 A tactical strike on Foundry Yard — a first-person 5v5 bomb-defusal shooter
-built for the make.fun **best-game-01** bounty ("Make the best game").
+built for the make.fun **best-game-01** bounty ("Make the best game"):
+https://make.fun/bounty/best-game-01
 
 You are **SABLE-1**, the spike carrier, with three bot allies (VEX, ROOK,
 HAVOC) against four EMBER defenders (ASH, CINDER, FLINT, SOOT). Plant the
